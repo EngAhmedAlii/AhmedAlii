@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @EngAhmedAlii
+- 👋 Hi, I’m AhmedAlii
 - 👀 I’m interested in AI Engeering
 - 🌱 I’m currently learning structure and oop
 - 💞️ I’m looking to collaborate on ...
